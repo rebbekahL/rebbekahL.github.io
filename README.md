@@ -1,3 +1,6 @@
+
+html
+Copy code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,31 +10,38 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
         }
         h1 {
-            color: #333;
+            color: #0056b3;
         }
         ul {
             list-style-type: none;
             padding: 0;
         }
         li {
-            margin: 10px 0;
+            background: #e0e0e0;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
         }
         a {
             text-decoration: none;
-            color: #1a73e8;
+            color: #0056b3;
+            font-weight: bold;
         }
         a:hover {
-            text-decoration: underline;
+            color: #ff5733;
         }
     </style>
 </head>
 <body>
     <h1>CIS 114 Assignments</h1>
     <ul>
-        <li><a href="#">Homework 2</a></li>
+        <li><a href="hw2.html">Homework 2</a></li>
         <li><a href="#">Homework 3</a></li>
         <li><a href="#">Homework 4</a></li>
         <li><a href="#">Homework 5</a></li>
