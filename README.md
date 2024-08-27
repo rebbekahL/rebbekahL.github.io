@@ -31,13 +31,13 @@
 <body>
     <h1>CIS 114 Assignments</h1>
     <ul>
-        <li><a href="#">Assignment 1</a></li>
-        <li><a href="#">Assignment 2</a></li>
-        <li><a href="#">Assignment 3</a></li>
-        <li><a href="#">Assignment 4</a></li>
-        <li><a href="#">Assignment 5</a></li>
-        <li><a href="#">Assignment 6</a></li>
-        <li><a href="#">Assignment 7</a></li>
+        <li><a href="#">Homework 2</a></li>
+        <li><a href="#">Homework 3</a></li>
+        <li><a href="#">Homework 4</a></li>
+        <li><a href="#">Homework 5</a></li>
+        <li><a href="#">Homework 6</a></li>
+        <li><a href="#">Homework 7</a></li>
+        <li><a href="#">Homework 8</a></li>
     </ul>
 </body>
 </html>
